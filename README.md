@@ -13,7 +13,7 @@ http://bit.ly/cek-id-telegram
 
 4. Buka terminal armbiannya. Lalu masukkan command berikut :  
 ```
-wget -L https://raw.githubusercontent.com/iwanmartinsetiawan/monitoring-verus-tg/main/monitoring.sh
+wget -L https://raw.githubusercontent.com/ngasqus/monitoring-verus-tg/main/monitoring.sh
 ```
 5. Edit file monitoring.sh yang telah didownload sebelumnya, menggunakan command dibawah :  
 ```
