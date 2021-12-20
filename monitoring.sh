@@ -49,8 +49,8 @@ echo -e "Pool address : "$(cat $HOME_DIR/miner.log | grep "Starting on" | awk '{
 echo -e "Hashrate : "$(tail -1 $HOME_DIR/miner.log | grep "accept" | awk '{print $7}')" kH/s" >> $MSG_FILE
 echo -e "Last share : "$(tail -1 $HOME_DIR/miner.log | grep "accept" | awk '{print $4}') >> $MSG_FILE
 # Send Notif Telegram
-TOKEN=TOKEN_BOT_TELEGRAM
-CHAT_ID=(ID_TELEGRAM) #ID_TELEGRAM diisi dengan id yang akan menerima notifnya.
+TOKEN=2105826072:AAH2ULLlIXsVxWdHP8p7VqjRVMmc7hIGXE8
+CHAT_ID=(306773502) #ID_TELEGRAM diisi dengan id yang akan menerima notifnya.
 MESSAGE=`cat $MSG_FILE`
 URL="https://api.telegram.org/bot$TOKEN/sendMessage"
 
