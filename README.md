@@ -42,10 +42,9 @@ Sesuaikan lokasi path filenya dengan folder tempat menyimpan file monitoring.sh 
 
 8. Save and Quit, dengan cara tekan tombol CTRL+X, tekan tombol Y dan enter. 
 
-# UPDATE
-20210716 - Add Pool Address description
+
 
 # Support
-BTC : 19YyecXP1oowC2oNCsiKwqRdwYiS2GNvVq  
-Doge : D9BxqsuKtibuzC3fE229h7UfCYQRgABsj5  
-Verus : RMzEdE5bTtu45W3jfx3WH4BktDmkpeX1ca  
+BTC : bc1qze0fzjcvmm2kkmuatc00nq2c02jej4a0zrxal6
+Doge : D8iuMPrKfSFGPyHSpqhEen4jWMp8mcipxe 
+Verus : RX4e2dZwKNzBZURbSoubTRCXfNNFgJdQs3
